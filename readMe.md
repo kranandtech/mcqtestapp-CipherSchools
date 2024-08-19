@@ -44,3 +44,7 @@ Test results are sent via email using Nodemailer, with a predefined email templa
 - npm start
 
 The application will be available at http://localhost:3000.
+# Testing
+- Login with email and password
+- email: ak25517@gmail.com
+- Password: password123
