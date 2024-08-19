@@ -8,6 +8,7 @@ This project is a web-based platform that allows students to take MCQ (Multiple 
 - Test Submission
 - Automated Test Evaluation via a Cron Job
 - Email Notifications with Test Results
+# Email template stored in server/emailTemplate.js
 # Tech Stack
 Frontend: React.js, CSS
 - Backend: Node.js, Express.js
