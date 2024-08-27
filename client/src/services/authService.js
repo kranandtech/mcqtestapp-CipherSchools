@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api';  // Base URL for the API
+const API_URL = 'https://mcqtestapp-cipherschools.onrender.com/api';  // Base URL for the API
 
 const register = async (userData) => {
   try {
